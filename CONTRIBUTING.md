@@ -3,6 +3,8 @@ Thank you for your interest in contributing to the Glimpse project! Feel free to
 
 Before getting in contact, please familiarize yourself with our [code of conduct](https://glimpse-editor.org/code-of-conduct/). For convenience we have provided a copy of that document with the source code in a file called `CODE_OF_CONDUCT.md`.
 
+**Note**: This project is currently on hiatus. [Read More](https://glimpse-editor.org/posts/a-project-on-hiatus/)
+
 ## Contents <a name="top"></a>
 * [Beginner questions](#beginner-questions)
 * [Ask for help](#ask-for-help)
@@ -13,7 +15,6 @@ Before getting in contact, please familiarize yourself with our [code of conduct
 * [Contribute documentation](#contribute-documentation)
 * [Contribute translations](#contribute-translations)
 * [Join the community](#join-the-community)
-* [Donate funds](#donate-funds)
 * [Follow project news](#follow-project-news)
 * [More information](#more-information)
 
@@ -29,11 +30,6 @@ Unfortunately, yes. People had been asking for these changes for over a decade b
 
 ### "Can you not just use find and replace to change the name?"
 No. Refactoring the code and changing variable names breaks the build scripts, sub-components and plug-ins that Glimpse Image Editor relies on. There are also situations where it makes more sense to preserve the original application name (eg. save file compatibility statements, descriptions for plug-ins/procedures, etc).
-
-### "Why do you need monetary donations?"
-We ask for monetary donations to reimburse costs such as server hosting, web domains, code signing certificates and professional artwork (among other things). A portion of the donations we receive are also passed back to the GNU Image Manipulation Program each time we produce a new release so that we continue to support the development of components our project relies on.
-
-The Glimpse project is strictly not-for-profit, and you can scrutinize all of our finances here: https://opencollective.com/glimpse/
 
 ### "Do you want to become more popular than the GIMP?"
 Our primary objective is to expand the use of free software and help new people join the free software community. Replacing the GNU Image Manipulation Program is not our goal, and we believe that supporting and collaborating with the project we forked from is a more productive route forward.
@@ -106,13 +102,6 @@ We recommend you familiarize yourself with our [code of conduct](https://glimpse
 Once you have done so, you are welcome to join us on the #glimpse:matrix.org on the Glimpse Discord server using the invite link provided here: https://glimpse-editor.org/contribute/. That communication channel is where our internal discussions happen and project decisions are made.
 
 As you become more involved with the project you will be granted the "Contributor" role and credited in our `AUTHORS` file.
-
-[Return to top](#top)
-
-## Donate funds
-If you would like to help us cover the costs of running the Glimpse project, you can do so here: https://opencollective.com/glimpse/
-
-You can also scrutinize how much we receive in donations and what we spend that money on. We are a strictly not-for-profit project, and we periodically pass on a portion of our donations to the GNU Image Manipulation Program.
 
 [Return to top](#top)
 

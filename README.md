@@ -3,6 +3,8 @@ Glimpse Image Editor is a downstream fork (derivative work) based on the GNU Ima
 
 You can find out more information on our FAQs page: https://glimpse-editor.org/about/
 
+**Note**: This project is currently on hiatus. [Read More](https://glimpse-editor.org/posts/a-project-on-hiatus/)
+
 ## What is different about the Glimpse fork?
 The GNU Image Manipulation Program is primarily intended for long-standing Linux enthusiasts and power users.
 
@@ -39,4 +41,4 @@ Full details for how to help are available in the `CONTRIBUTING.md` file.
 
 You can also help by talking about us on social media, writing a positive blog post and helping people use Glimpse Image Editor.
 
-To help us cover our costs, please donate to this project via [Github Sponsors](https://github.com/sponsors/glimpse-editor) or [Open Collective](https://opencollective.com/glimpse). If you can afford to do so we also encourage you to donate to [GNU Image Manipulation Program](https://www.gimp.org/donating/) as that helps the upstream project we rely on.
+If you can afford to do so we encourage you to donate to [GNU Image Manipulation Program](https://www.gimp.org/donating/) as that helps the upstream project we rely on.

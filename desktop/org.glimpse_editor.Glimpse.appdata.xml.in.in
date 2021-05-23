@@ -24,7 +24,6 @@
   </description>
   <url type="homepage">https://glimpse-editor.org</url>
   <!-- url type="help">https://glimpse-editor.org/TODO</url -->
-  <url type="donation">https://opencollective.com/glimpse</url>
   <url type="bugtracker">@BUG_REPORT_URL@</url>
   <update_contact>info_AT_glimpse-editor.org</update_contact>
 
