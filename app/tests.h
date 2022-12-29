@@ -16,7 +16,7 @@
  */
 
 #ifndef __TESTS_H__
-#define __TESTS_H__
+define __TESTS_H__
 
 /* Automake doc says:
    "When no test protocol is in use, an exit status of 0 from a test
